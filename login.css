@@ -1,0 +1,10 @@
+.floatingUsername{
+    text-align: right;
+
+}
+
+#submitButton{
+    background-color : blue;
+    margin: 2;
+    text-align: justify;
+}
